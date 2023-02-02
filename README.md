@@ -84,9 +84,9 @@ Future plans for our project
 >Discovering New Music: NFTones features a full-featured music player with the ability to discover new music. This helps to promote new and emerging artists, giving them a platform to reach a wider audience.
 
 >Monetization: 
-1)NFTones can be monetized by charging users a monthly or yearly subscription fee to access the platform and its features.
-2)It can also monetize through advertisements or partnerships with music industry players.
-3)The platform can also earn revenue by selling NFT tokens and taking a percentage of transactions that occur on the platform.
+>1)NFTones can be monetized by charging users a monthly or yearly subscription fee to access the platform and its features.
+>2)It can also monetize through advertisements or partnerships with music industry players.
+>3)The platform can also earn revenue by selling NFT tokens and taking a percentage of transactions that occur on the platform.
 
 ## 🛠Project Setup
 
