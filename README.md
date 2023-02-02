@@ -40,7 +40,6 @@ In addition to mining, NFTones also features a full-featured music player, with 
 - [GitHub Repository](https://github.com/siddheshsingh26/CoC-Inheritance.git)
 - [Demo Video](https://drive.google.com/file/d/1OZgOtzm7Y0qowh1BFyz_aOtdCbvI8mkD/view?usp=sharing)
 - [Drive Link to Screenshots of your project]()
-- [Hosted Backend Link]()
 
 ## 🤖Tech-Stack
 
