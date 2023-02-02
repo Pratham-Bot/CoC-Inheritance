@@ -39,7 +39,7 @@ In addition to mining, NFTones also features a full-featured music player, with 
 
 - [GitHub Repository](https://github.com/siddheshsingh26/CoC-Inheritance.git)
 - [Demo Video](https://drive.google.com/file/d/1OZgOtzm7Y0qowh1BFyz_aOtdCbvI8mkD/view?usp=sharing)
-- [Drive Link to Screenshots of your project]()
+- [Drive Link to Screenshots of our project](https://drive.google.com/drive/folders/1mSU3A-yDbeoMYFOcRck4dXci9HabSQbV?usp=sharing)
 
 ## 🤖Tech-Stack
 
@@ -83,9 +83,9 @@ Future plans for our project
 >Discovering New Music: NFTones features a full-featured music player with the ability to discover new music. This helps to promote new and emerging artists, giving them a platform to reach a wider audience.
 
 >Monetization: 
->1)NFTones can be monetized by charging users a monthly or yearly subscription fee to access the platform and its features.
->2)It can also monetize through advertisements or partnerships with music industry players.
->3)The platform can also earn revenue by selling NFT tokens and taking a percentage of transactions that occur on the platform.
+1)NFTones can be monetized by charging users a monthly or yearly subscription fee to access the platform and its features.
+2)It can also monetize through advertisements or partnerships with music industry players.
+3)The platform can also earn revenue by selling NFT tokens and taking a percentage of transactions that occur on the platform.
 
 ## 🛠Project Setup
 
@@ -118,7 +118,7 @@ Future plans for our project
 - [Siddheshsingh Tanwar](https://github.com/siddheshsingh26): siddheshsinghtanwar@gmail.com 
 - [Shrived Kakde](https://github.com/Shrived00): shrivedkakde00@gmail.com 
 - [Pratham Deshmukh](https://github.com/Pratham-Bot): mast.deshmukh@gmail.com 
-
+    
 ## 👨‍🏫Mentors
 
 - [Sarvagnya Purohit](https://github.com/saRvaGnyA)
